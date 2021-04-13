@@ -1,0 +1,3 @@
+rmdir: If you need to delete a directory, use the rmdir command.
+echo:This command is used to move some data into a file.
+cp:copy files from the current directory to a different directory
